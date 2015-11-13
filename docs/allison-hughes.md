@@ -1,4 +1,5 @@
-- [ ] Allison
-- [ ] Syracuse, NY
-- [ ] Pizza
-- [ ] Netflix binging
+- [ ] Name: Allison
+- [ ] From: Syracuse, NY
+- [ ] Favorite Food: Pizza
+- [ ] Hobby: Netflix binging
+- [ ] Favorite Color: Blue
