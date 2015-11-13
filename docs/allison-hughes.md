@@ -1,0 +1,4 @@
+- [ ] Allison
+- [ ] Syracuse, NY
+- [ ] Pizza
+- [ ] Netflix binging
