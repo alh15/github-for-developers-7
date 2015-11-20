@@ -3,3 +3,4 @@
 - [ ] Favorite Food: Pizza
 - [ ] Hobby: Netflix binging
 - [ ] Favorite Color: Blue
+- [ ] Current City: Princeton, NJ
